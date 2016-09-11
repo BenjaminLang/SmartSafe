@@ -8,3 +8,4 @@ server to provide 2-way authentication and a means to control home security syst
 
 # Additional Information
 This project was a submission to a 2nd year project in the department of electrical and computer engineering at UBC.
+The repository contains only the source code.
